@@ -48,6 +48,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your-twitter-handle](https://twitter.com/your-twitter-handle) - your-email@example.com
+For any inquiries or feedback, you can reach me via:
 
-Project Link: [https://github.com/your-username/zerodha-clone](https://github.com/your-username/zerodha-clone)
+- [LinkedIn](https://www.linkedin.com/in/vishalp018/)
+- Email: palvishal111@gmail.com
