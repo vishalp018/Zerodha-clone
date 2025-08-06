@@ -1,6 +1,8 @@
 # Zerodha Clone
 
 This project is a simple clone of the Zerodha website's landing page. It includes a basic navigation bar and some images, created using only HTML and CSS.
+<br>
+updating the code base to next js 
 
 ## Features
 
